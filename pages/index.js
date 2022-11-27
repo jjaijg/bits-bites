@@ -5,15 +5,15 @@ import Clients from "../element/clients";
 import Counter from "../element/counter";
 import Cta from "../element/cta";
 import Newsletter from "../element/newsletter";
-import Features from "../element/our-features";
+import Features from "../element/our-features-3";
 import Pricing from "../element/pricing";
 import Projects from "../element/projects";
 import Quote from "../element/quote";
-import Service from "../element/service";
-import Slider1 from "../element/slider-1";
+import Service from "../element/service-2";
+import Slider from "../element/slider-1";
 import Team from "../element/team";
 import Testimonial from "../element/testimonial";
-import Footer from "../layout/footer";
+import Footer from "../layout/footer-2";
 import Header from "../layout/header";
 function Home() {
   useEffect(() => {
@@ -23,16 +23,16 @@ function Home() {
     <>
       <Header />
       <div className="page-content bg-white" id="top">
-        <Slider1 />
-        <Clients />
+        <Slider />
+        {/* <Clients /> */}
         <Service />
         <AboutUs />
         <Counter />
         <Features />
-        <Projects />
-        <Newsletter />
-        <Team />
-        <Pricing />
+        {/* <Projects /> */}
+        {/* <Newsletter /> */}
+        {/* <Team /> */}
+        {/* <Pricing /> */}
         <Testimonial />
         <Blog />
         <Quote />
