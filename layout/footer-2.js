@@ -115,20 +115,20 @@ function Footer2() {
                   <h5 className="footer-title">Our links</h5>
                   <ul>
                     <li>
-                      <a href="javascript:void(0);">Home</a>
+                      <a href="/">Home</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">About Us</a>
+                      <a href="/about-us">About Us</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">Services</a>
+                      <a href="/service-details">Services</a>
                     </li>
                     {/* <li>
                       <a href="javascript:void(0);">Team</a>
                     </li> */}
-                    <li>
+                    {/* <li>
                       <a href="javascript:void(0);">Blog</a>
-                    </li>
+                    </li> */}
                   </ul>
                 </div>
               </div>

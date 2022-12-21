@@ -20,7 +20,7 @@ function Header3() {
                   <a>
                     <img
                       className="custom-logo-white"
-                      src="images/logo-white.png"
+                      src="images/logo.png"
                       alt=""
                     />
                     <img className="custom-logo" src="images/logo.png" alt="" />
@@ -77,11 +77,11 @@ function Header3() {
                       <a>Services</a>
                     </Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link href="/blog-large-right-sidebar">
                       <a>Blog</a>
                     </Link>
-                  </li>
+                  </li> */}
                 </ul>
                 <div className="dlab-social-icon">
                   <ul>

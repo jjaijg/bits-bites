@@ -36,7 +36,7 @@ function Home() {
         {/* <Team /> */}
         {/* <Pricing /> */}
         <Testimonial />
-        <Blog />
+        {/* <Blog /> */}
         <Quote />
         <Cta />
       </div>

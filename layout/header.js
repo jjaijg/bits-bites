@@ -72,11 +72,11 @@ function Header() {
                       <a>Services</a>
                     </Link>
                   </li>
-                  <li>
+                  {/* <li>
                     <Link href="/blog-large-right-sidebar">
                       <a>Blog</a>
                     </Link>
-                  </li>
+                  </li> */}
                   {/* <li className={`${open === "about" ? "open" : ""}`}>
                     <a onClick={() => setOpen("about")}>
                       <span>Pages</span>

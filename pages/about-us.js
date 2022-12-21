@@ -225,7 +225,7 @@ function AboutUs() {
         <Testimonial />
 
         {/* <!-- Blog --> */}
-        <Blog />
+        {/* <Blog /> */}
 
         {/* <!-- Get A Quote --> */}
         {/* <Quote /> */}
