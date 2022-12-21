@@ -52,7 +52,7 @@ function Quote() {
                         </span>
                       </div>
                       <input
-                        name="dzName"
+                        name="Name"
                         type="text"
                         required
                         className="form-control"
@@ -68,7 +68,7 @@ function Quote() {
                         </span>
                       </div>
                       <input
-                        name="dzOther[last_name]"
+                        name="BabtIt[last_name]"
                         type="text"
                         className="form-control"
                         required
@@ -84,7 +84,7 @@ function Quote() {
                         </span>
                       </div>
                       <input
-                        name="dzEmail"
+                        name="Email"
                         type="text"
                         required
                         className="form-control"
@@ -100,7 +100,7 @@ function Quote() {
                         </span>
                       </div>
                       <input
-                        name="dzOther[phone]"
+                        name="BabtIt[phone]"
                         type="text"
                         required
                         className="form-control"
@@ -116,7 +116,7 @@ function Quote() {
                         </span>
                       </div>
                       <input
-                        name="dzOther[project_title]"
+                        name="BabtIt[project_title]"
                         type="text"
                         className="form-control"
                         required
@@ -132,11 +132,12 @@ function Quote() {
                         </span>
                       </div>
                       <select
-                        name="dzOther[choose_service]"
+                        name="BabtIt[choose_service]"
                         className="form-control"
                         required
+                        defaultValue={"Choose Service"}
                       >
-                        <option selected>Choose Service</option>
+                        <option>Choose Service</option>
                         <option value="1">BPO Service</option>
                         <option value="2">E-Commerce</option>
                         <option value="3">Mobile Development</option>
@@ -155,7 +156,7 @@ function Quote() {
                         </span>
                       </div>
                       <textarea
-                        name="dzMessage"
+                        name="BabItMessage"
                         required
                         className="form-control"
                         placeholder="Message"

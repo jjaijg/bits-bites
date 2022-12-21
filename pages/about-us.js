@@ -141,7 +141,7 @@ function AboutUs() {
                     <div className="icon-bx-wraper style-6 left p-0 m-b30 icon-up">
                       <div className="icon-bx-sm bg-white">
                         <a
-                          href="javascript:void(0);"
+                          href="#"
                           className="icon-cell text-primary"
                         >
                           <i className="flaticon-chat"></i>
@@ -160,7 +160,7 @@ function AboutUs() {
                     <div className="icon-bx-wraper style-6 left p-0 m-b30 icon-up">
                       <div className="icon-bx-sm bg-white">
                         <a
-                          href="javascript:void(0);"
+                          href="#"
                           className="icon-cell text-primary"
                         >
                           <i className="flaticon-bullhorn"></i>

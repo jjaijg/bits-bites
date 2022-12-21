@@ -35,7 +35,7 @@ function Service2() {
                 onMouseOver={() => setOpen("p1")}
               >
                 <div className="icon-bx-sm radius bgl-primary">
-                  <a href="javascript:void(0);" className="icon-cell">
+                  <a href="#" className="icon-cell">
                     <i className="flaticon-office"></i>
                   </a>
                 </div>
@@ -60,7 +60,7 @@ function Service2() {
                 onMouseOver={() => setOpen("p2")}
               >
                 <div className="icon-bx-sm radius bgl-primary">
-                  <a href="javascript:void(0);" className="icon-cell">
+                  <a href="#" className="icon-cell">
                     <i className="fa fa-mobile"></i>
                   </a>
                 </div>
@@ -85,7 +85,7 @@ function Service2() {
                 onMouseOver={() => setOpen("p3")}
               >
                 <div className="icon-bx-sm radius bgl-primary">
-                  <a href="javascript:void(0);" className="icon-cell">
+                  <a href="#" className="icon-cell">
                     {/* <i className="flaticon-dollar"></i> */}
                     <i className="fa fa-handshake-o"></i>
                   </a>
@@ -113,7 +113,7 @@ function Service2() {
                 onMouseOver={() => setOpen("p4")}
               >
                 <div className="icon-bx-sm radius bgl-primary">
-                  <a href="javascript:void(0);" className="icon-cell">
+                  <a href="#" className="icon-cell">
                     <i className="flaticon-line-graph"></i>
                   </a>
                 </div>
@@ -138,7 +138,7 @@ function Service2() {
                 onMouseOver={() => setOpen("p5")}
               >
                 <div className="icon-bx-sm radius bgl-primary">
-                  <a href="javascript:void(0);" className="icon-cell">
+                  <a href="#" className="icon-cell">
                     <i className="fa fa-cart-plus"></i>
                   </a>
                 </div>
@@ -163,7 +163,7 @@ function Service2() {
                 onMouseOver={() => setOpen("p6")}
               >
                 <div className="icon-bx-sm radius bgl-primary">
-                  <a href="javascript:void(0);" className="icon-cell">
+                  <a href="#" className="icon-cell">
                     <i className="fa fa-money"></i>
                   </a>
                 </div>
@@ -188,7 +188,7 @@ function Service2() {
                 onMouseOver={() => setOpen("p7")}
               >
                 <div className="icon-bx-sm radius bgl-primary">
-                  <a href="javascript:void(0);" className="icon-cell">
+                  <a href="#" className="icon-cell">
                     <i className="fa fa-flask"></i>
                   </a>
                 </div>
@@ -213,7 +213,7 @@ function Service2() {
                 onMouseOver={() => setOpen("p8")}
               >
                 <div className="icon-bx-sm radius bgl-primary">
-                  <a href="javascript:void(0);" className="icon-cell">
+                  <a href="#" className="icon-cell">
                     <i className="fa fa-headphones"></i>
                   </a>
                 </div>

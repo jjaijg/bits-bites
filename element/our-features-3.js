@@ -18,10 +18,7 @@ function Features3() {
                 >
                   <div className="icon-bx-wraper left m-b50 icon-up">
                     <div className="icon-bx-sm radius gradient-sec shadow-primary m-b20">
-                      <a
-                        href="javascript:void(0);"
-                        className="icon-cell text-white"
-                      >
+                      <a href="#" className="icon-cell text-white">
                         <i className="flaticon-idea"></i>
                       </a>
                     </div>
@@ -42,10 +39,7 @@ function Features3() {
                 >
                   <div className="icon-bx-wraper left m-b50 icon-up">
                     <div className="icon-bx-sm radius gradient-sec shadow-primary m-b20">
-                      <a
-                        href="javascript:void(0);"
-                        className="icon-cell text-white"
-                      >
+                      <a href="#" className="icon-cell text-white">
                         <i className="flaticon-vector"></i>
                       </a>
                     </div>
@@ -82,10 +76,7 @@ function Features3() {
                 >
                   <div className="icon-bx-wraper left m-b50 icon-up">
                     <div className="icon-bx-sm radius gradient-sec shadow-primary m-b20">
-                      <a
-                        href="javascript:void(0);"
-                        className="icon-cell text-white"
-                      >
+                      <a href="#" className="icon-cell text-white">
                         <i className="flaticon-coding"></i>
                       </a>
                     </div>
@@ -111,10 +102,7 @@ function Features3() {
                 >
                   <div className="icon-bx-wraper left m-b50 icon-up">
                     <div className="icon-bx-sm radius gradient-sec shadow-primary m-b20">
-                      <a
-                        href="javascript:void(0);"
-                        className="icon-cell text-white"
-                      >
+                      <a href="#" className="icon-cell text-white">
                         <i className="flaticon-rocket"></i>
                       </a>
                     </div>

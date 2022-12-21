@@ -124,10 +124,10 @@ function Footer2() {
                       <a href="/service-details">Services</a>
                     </li>
                     {/* <li>
-                      <a href="javascript:void(0);">Team</a>
+                      <a href="#">Team</a>
                     </li> */}
                     {/* <li>
-                      <a href="javascript:void(0);">Blog</a>
+                      <a href="#">Blog</a>
                     </li> */}
                   </ul>
                 </div>
@@ -141,22 +141,22 @@ function Footer2() {
                   <h5 className="footer-title">Our Services</h5>
                   <ul>
                     <li>
-                      <a href="javascript:void(0);">Mobile Development</a>
+                      <a href="#">Mobile Development</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">Web Development</a>
+                      <a href="#">Web Development</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">SEO & Marketing</a>
+                      <a href="#">SEO & Marketing</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">BPO Services</a>
+                      <a href="#">BPO Services</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">E-Commerce </a>
+                      <a href="#">E-Commerce </a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">Hire Us </a>
+                      <a href="#">Hire Us </a>
                     </li>
                   </ul>
                 </div>
@@ -170,19 +170,19 @@ function Footer2() {
                   <h5 className="footer-title">Other links</h5>
                   <ul>
                     {/* <li>
-                      <a href="javascript:void(0);">FAQ</a>
+                      <a href="#">FAQ</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">Portfolio</a>
+                      <a href="#">Portfolio</a>
                     </li> */}
                     <li>
-                      <a href="javascript:void(0);">Privacy Policy</a>
+                      <a href="#">Privacy Policy</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">Terms & Conditions</a>
+                      <a href="#">Terms & Conditions</a>
                     </li>
                     <li>
-                      <a href="javascript:void(0);">Support </a>
+                      <a href="#">Support </a>
                     </li>
                   </ul>
                 </div>

@@ -30,7 +30,7 @@ function Cta() {
               data-wow-duration="2s"
               data-wow-delay="0.4s"
             >
-              <Link href="contact-us">
+              <Link href="/contact-us">
                 <a className="btn btn-link d-inline-flex align-items-center">
                   <i className="fa fa-angle-right m-r10"></i>Join Now
                 </a>
