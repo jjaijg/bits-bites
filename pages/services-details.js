@@ -70,12 +70,12 @@ function ServicesDetails1() {
                   <div className="row">
                     <div className="col-lg-6">
                       <h3>Things we will do in mobile app development</h3>
-                      <p>
+                      {/* <p>
                         Lorem Ipsum is simply dummy text of the printing and
                         typesetting industry. Lorem Ipsum has been the
                         industry's standard dummy text ever since the 1500s,
                         when an unknown printer took a galley.
-                      </p>
+                      </p> */}
                       <ul className="list-arrow primary m-b30">
                         <li>Android App Development.</li>
                         <li>Enterpise Mobile Apps Development.</li>
