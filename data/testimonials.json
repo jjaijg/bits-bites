@@ -1,0 +1,44 @@
+[
+    {
+        "id":"testimonial 1",
+        "description": "I am the owner of a small app development company and Bab India is, hands down, the best out there! I contacted them after reading their reviews and they won me over. They're my go-to app developer now.",
+        "by": "Venkatesh",
+        "designation": "CEO & Founder",
+        "rating":5
+    },
+    {
+        "id":"testimonial 2",
+        "description": "Bab India has been a fantastic development partner for one of my upcoming apps. They have delivered high-quality work on time and with great professionalism. I was initially apprehensive about collaborating with a new company for the app, but am so glad that I did!",
+        "by": "Sherle",
+        "designation": "CEO & Founder",
+        "rating":5
+    },
+    {
+        "id":"testimonial 3",
+        "description": "I cannot say enough about how much I love Bab India. They are the best app development company I have ever worked with. Their team is creative and knowledgeable and they deliver on time, every time. I'm so glad that I found Bab India because they really go above and beyond to make sure that we are happy with their work.",
+        "by": "Jai",
+        "designation": "Developer",
+        "rating":5
+    },
+    {
+        "id":"testimonial 4",
+        "description": "The best thing about Bits & Bytes IT Solutions is their dedication to happy customers and their willingness to go the extra mile for their clients. I am grateful to have found such a reliable company that I can rely on for everything from IT support to digital marketing.",
+        "by": "Ganesh",
+        "designation": "Architect",
+        "rating":5
+    },
+    {
+        "id":"testimonial 5",
+        "description": "I have been working in the IT field for a few years now and I'm always on the lookout for new, innovative tech solutions. I've so far tried various marketing and sales apps but what I love about Bits & Bytes is that the company has a meticulous, detailed approach to their work unlike any other. They are true professionals who take pride in their work which is rare to find these days.",
+        "by": "Pandian",
+        "designation": "Solution Architect",
+        "rating":5
+    },
+    {
+        "id":"testimonial 6",
+        "description": "I've been in the IT industry for over a decade now and I can tell you that Bits & Bytes is the best when it comes to digital marketing and sales. They have helped me take my business to new heights, significantly increasing my website traffic, getting me more leads, and expanding my network.",
+        "by": "Venky",
+        "designation": "Developer",
+        "rating":3
+    }
+]

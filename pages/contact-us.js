@@ -45,7 +45,7 @@ function ContactUs1() {
             backgroundSize: "cover",
           }}
         >
-          <div className="container">
+          {/* <div className="container">
             <div className="row action-box style-1 align-items-center">
               <div
                 className="col-xl-7 col-lg-8 col-md-8 wow fadeIn"
@@ -74,7 +74,7 @@ function ContactUs1() {
                 </a>
               </div>
             </div>
-          </div>
+          </div> */}
         </section>
       </div>
       <Footer />

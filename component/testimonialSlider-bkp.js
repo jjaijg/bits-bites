@@ -53,7 +53,7 @@ function TestimonialSlider() {
     <>
       <div className="testimonials-carousel1 owl-carousel owl-theme owl-btn-2 owl-btn-white owl-btn-center">
         <Slider ref={(c) => setAsd(c)} {...settings}>
-          {/* <div
+          <div
             className="item wow fadeInUp"
             data-wow-duration="2s"
             data-wow-delay="0.2s"
@@ -67,6 +67,9 @@ function TestimonialSlider() {
                 </p>
               </div>
               <div className="testimonial-detail">
+                {/* <div className="testimonial-pic">
+                  <img src="images/testimonials/pic3.jpg" alt="" />
+                </div> */}
                 <div className="clearfix">
                   <strong className="testimonial-name">Venky</strong>
                   <span className="testimonial-position">CEO & Founder </span>
@@ -104,6 +107,9 @@ function TestimonialSlider() {
                 </p>
               </div>
               <div className="testimonial-detail">
+                {/* <div className="testimonial-pic">
+                  <img src="images/testimonials/pic3.jpg" alt="" />
+                </div> */}
                 <div className="clearfix">
                   <strong className="testimonial-name">Lora Price</strong>
                   <span className="testimonial-position">CEO & Founder </span>
@@ -142,6 +148,9 @@ function TestimonialSlider() {
                 </p>
               </div>
               <div className="testimonial-detail">
+                {/* <div className="testimonial-pic">
+                  <img src="images/testimonials/pic3.jpg" alt="" />
+                </div> */}
                 <div className="clearfix">
                   <strong className="testimonial-name">Cak Dikin</strong>
                   <span className="testimonial-position">CEO & Founder </span>
@@ -179,6 +188,9 @@ function TestimonialSlider() {
                 </p>
               </div>
               <div className="testimonial-detail">
+                {/* <div className="testimonial-pic">
+                  <img src="images/testimonials/pic3.jpg" alt="" />
+                </div> */}
                 <div className="clearfix">
                   <strong className="testimonial-name">Cak Dikin</strong>
                   <span className="testimonial-position">CEO & Founder </span>
@@ -218,6 +230,9 @@ function TestimonialSlider() {
                 </p>
               </div>
               <div className="testimonial-detail">
+                {/* <div className="testimonial-pic">
+                  <img src="images/testimonials/pic3.jpg" alt="" />
+                </div> */}
                 <div className="clearfix">
                   <strong className="testimonial-name">Cak Dikin</strong>
                   <span className="testimonial-position">CEO & Founder </span>
@@ -241,10 +256,9 @@ function TestimonialSlider() {
                 </div>
               </div>
             </div>
-          </div> */}
+          </div>
           {testimonials?.map((testimonial) => (
             <div
-              key={testimonial.id}
               className="item wow fadeInUp"
               data-wow-duration="2s"
               data-wow-delay="0.2s"
@@ -254,6 +268,9 @@ function TestimonialSlider() {
                   <p>“{testimonial.description}”</p>
                 </div>
                 <div className="testimonial-detail">
+                  {/* <div className="testimonial-pic">
+                  <img src="images/testimonials/pic3.jpg" alt="" />
+                </div> */}
                   <div className="clearfix">
                     <strong className="testimonial-name">
                       {testimonial.by}
@@ -262,16 +279,14 @@ function TestimonialSlider() {
                       {testimonial.designation}{" "}
                     </span>
                     <ul className="star-rating">
-                      {Array(testimonial.rating)
-                        .fill("")
-                        .map((_, idx) => (
-                          <li>
-                            <i
-                              key={`${testimonial.id}-rating-${idx}`}
-                              className="fa fa-star text-warning"
-                            ></i>
-                          </li>
-                        ))}
+                      {Array(testimonial.rating).map((_, idx) => (
+                        <li>
+                          <i
+                            key={`${testimonial.id}-rating-${idx}`}
+                            className="fa fa-star text-warning"
+                          ></i>
+                        </li>
+                      ))}
                       {/* <li>
                       <i className="fa fa-star text-warning"></i>
                     </li>
