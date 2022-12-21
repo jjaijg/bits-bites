@@ -61,7 +61,7 @@ function Service2() {
               >
                 <div className="icon-bx-sm radius bgl-primary">
                   <a href="javascript:void(0);" className="icon-cell">
-                    <i class="fa fa-mobile"></i>
+                    <i className="fa fa-mobile"></i>
                   </a>
                 </div>
                 <div className="wraper-effect"></div>
@@ -139,7 +139,7 @@ function Service2() {
               >
                 <div className="icon-bx-sm radius bgl-primary">
                   <a href="javascript:void(0);" className="icon-cell">
-                    <i class="fa fa-cart-plus"></i>
+                    <i className="fa fa-cart-plus"></i>
                   </a>
                 </div>
                 <div className="wraper-effect"></div>
