@@ -88,9 +88,9 @@ function Footer2() {
                         <span>
                           <a
                             className="text-white"
-                            href="mailto:babindiaofficial@gmail.com"
+                            href="mailto:admin@babindia.com"
                           >
-                            babindiaofficial@gmail.com
+                            admin@babindia.com
                           </a>
                         </span>
                       </li>
@@ -198,7 +198,7 @@ function Footer2() {
                 <span className="copyright-text">
                   Copyright © 2022{" "}
                   <a href="#" target="_blank">
-                    BaB IT Solutins
+                    BaB IT Solutions
                   </a>
                   . All rights reserved.
                 </span>

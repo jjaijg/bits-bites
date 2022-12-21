@@ -41,7 +41,7 @@ function Header3() {
               {/* <!-- Extra Nav --> */}
               <div className="extra-nav">
                 <div className="extra-cell">
-                  <Link href="contact-us-1">
+                  <Link href="contact-us">
                     <a className="btn btn-corner gradient btn-primary">
                       <i className="fa fa-angle-right m-r10"></i>Get A Quote
                     </a>

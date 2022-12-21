@@ -52,7 +52,7 @@ function Slider1() {
                     Breathing life into the development of ideas you dream of,
                     with new-age creators to make your brand unstoppable!
                   </p>
-                  <Link href="about-us-1">
+                  <Link href="about-us">
                     <a
                       data-wow-duration="1.6s"
                       data-wow-delay="2s"
