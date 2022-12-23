@@ -165,10 +165,10 @@ function Portfolio2() {
                     </div>
                     <div className="dlab-info">
                       <h5 className="title">
-                        <a href="javascript:void(0);">{item.title}</a>
+                        <a href="#">{item.title}</a>
                       </h5>
                       <p className="post-author">
-                        By <a href="javascript:void(0);">{item.author}</a>
+                        By <a href="#">{item.author}</a>
                       </p>
                     </div>
                   </div>

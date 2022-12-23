@@ -265,11 +265,8 @@ function TestimonialSlider() {
                       {Array(testimonial.rating)
                         .fill("")
                         .map((_, idx) => (
-                          <li>
-                            <i
-                              key={`${testimonial.id}-rating-${idx}`}
-                              className="fa fa-star text-warning"
-                            ></i>
+                          <li key={`${testimonial.id}-rating-${idx}`}>
+                            <i className="fa fa-star text-warning"></i>
                           </li>
                         ))}
                       {/* <li>
