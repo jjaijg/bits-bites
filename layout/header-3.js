@@ -20,7 +20,7 @@ function Header3() {
                   <a>
                     <img
                       className="custom-logo-white"
-                      src="images/logo.png"
+                      src="images/logo-white.png"
                       alt=""
                     />
                     <img className="custom-logo" src="images/logo.png" alt="" />

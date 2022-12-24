@@ -14,7 +14,7 @@ function ServicesDetails1() {
         {/* <!-- Banner  --> */}
         {/* overlay-primary-dark */}
         <div
-          className="dlab-bnr-inr overlay-primary-middle"
+          className="dlab-bnr-inr overlay-primary-dark"
           style={{ backgroundImage: "url(images/banner/bnr1.jpg)" }}
         >
           <div className="container">
@@ -53,19 +53,14 @@ function ServicesDetails1() {
                 <div className="dlab-content">
                   <div className="m-b40">
                     <h3>Mobile Apps Development</h3>
-                    {/* <p>
-                      Lorem Ipsum is simply dummy text of the printing and
-                      typesetting industry. Lorem Ipsum has been the industry's
-                      standard dummy text ever since the 1500s, when an unknown
-                      printer took a galley of type and scrambled it to make a
-                      type specimen book. It has survived not only five
-                      centuries, but also the leap into electronic typesetting,
-                      remaining essentially unchanged. It was popularised in the
-                      1960s with the release of Letraset sheets containing Lorem
-                      Ipsum passages, and more recently with desktop publishing
-                      software like Aldus PageMaker including versions of Lorem
-                      Ipsum.
-                    </p> */}
+                    <p>
+                      69% of people can't imagine life without the convenience
+                      and efficiency of mobile apps. Apps are a must in our
+                      everyday lives. While their use may seem obligatory to
+                      some, it should not be. Working with an app developer is
+                      important to maximize the functions of your technology,
+                      and increase your productivity.⁣
+                    </p>
                   </div>
                   <div className="row">
                     <div className="col-lg-6">
