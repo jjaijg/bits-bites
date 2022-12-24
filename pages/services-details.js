@@ -14,7 +14,7 @@ function ServicesDetails1() {
         {/* <!-- Banner  --> */}
         {/* overlay-primary-dark */}
         <div
-          className="dlab-bnr-inr overlay-primary-middle"
+          className="dlab-bnr-inr overlay-primary-dark"
           style={{ backgroundImage: "url(images/banner/bnr1.jpg)" }}
         >
           <div className="container">
