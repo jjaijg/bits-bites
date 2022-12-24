@@ -32,9 +32,12 @@ function AllServices() {
                 <div className="icon-content">
                   <h4 className="dlab-title">Web Design & Development</h4>
                   <p>
-                    Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                    eget sapien euismod, faucibus nibh non, consequat elit.
-                    Praesent sed vehicula.
+                    As a web design and development company, we always have new
+                    clients with views on what the perfect website should look
+                    like. Yes, well-designed websites have many benefits as we
+                    all know, but that's not what your customers want. Here at
+                    BabIndia, every project is different and has it's own unique
+                    set of objectives and features.
                   </p>
                 </div>
               </div>
@@ -60,9 +63,10 @@ function AllServices() {
                 <div className="icon-content">
                   <h4 className="dlab-title">Mobile Apps Development</h4>
                   <p>
-                    Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                    eget sapien euismod, faucibus nibh non, consequat elit.
-                    Praesent sed vehicula.
+                    Allow us as your trusted mobile app company get you started
+                    with designing a customized solution that meets both your
+                    individual business needs, as well as the technological
+                    changes in the world.
                   </p>
                 </div>
               </div>
@@ -88,9 +92,11 @@ function AllServices() {
                 <div className="icon-content">
                   <h4 className="dlab-title">Hire Our Dedicated Developers</h4>
                   <p>
-                    Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                    eget sapien euismod, faucibus nibh non, consequat elit.
-                    Praesent sed vehicula.
+                    Despite the constraint, our developers are consistently
+                    producing error-free, user-friendly and dependable products.
+                    We make it a point to innovate to keep up with the latest
+                    industry standards and innovations. Get in touch with us
+                    today and make your life easier!.
                   </p>
                 </div>
               </div>
@@ -116,9 +122,13 @@ function AllServices() {
                 <div className="icon-content">
                   <h4 className="dlab-title">E-Commerce</h4>
                   <p>
-                    Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                    eget sapien euismod, faucibus nibh non, consequat elit.
-                    Praesent sed vehicula.
+                    The #futureofecommerce includes new modes of selling, buying
+                    and communicating with retailers and vendors. This will
+                    affect the way we do business with one another and what
+                    consumers expect from the shopping experience.⁣⁣ The way we
+                    shop is changing - sooner or later, it’s going to be 100%
+                    digital! What does this mean for e-commerce? The future for
+                    us all? Contact us to know more
                   </p>
                 </div>
               </div>
@@ -144,9 +154,11 @@ function AllServices() {
                 <div className="icon-content">
                   <h4 className="dlab-title">SEO & Marketing</h4>
                   <p>
-                    Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                    eget sapien euismod, faucibus nibh non, consequat elit.
-                    Praesent sed vehicula.
+                    Marketing tactics are about who you're trying to please. We
+                    think it's time to organize a clean up day and make it
+                    beneficial for the whole world. With BabIndia, you can turn
+                    your social media followers into success stories by solving
+                    their problems with our marketing and SEO strategies.
                   </p>
                 </div>
               </div>
@@ -172,9 +184,13 @@ function AllServices() {
                 <div className="icon-content">
                   <h4 className="dlab-title">BPO Services</h4>
                   <p>
-                    Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                    eget sapien euismod, faucibus nibh non, consequat elit.
-                    Praesent sed vehicula.
+                    When you want to focus on your business, we want to help you
+                    succeed. BPO Services are a great way to grow your company
+                    and reach its objectives. We are here for you every step of
+                    the way - providing you with the professional services that
+                    promote efficiency for your company.⁣ Leverage our expertise
+                    when it comes to financial management, procurement, human
+                    resources, and more.
                   </p>
                 </div>
               </div>
@@ -200,9 +216,11 @@ function AllServices() {
                 <div className="icon-content">
                   <h4 className="dlab-title">Payment Integrations</h4>
                   <p>
-                    Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                    eget sapien euismod, faucibus nibh non, consequat elit.
-                    Praesent sed vehicula.
+                    No matter how much we offer, there’s always a demand for
+                    more. Are you an Entrepreneur looking for the best payment
+                    integrations without compromising security or transparency?
+                    BabIndia got you covered with our help desk and helpful
+                    customer service.⁣
                   </p>
                 </div>
               </div>
@@ -228,9 +246,10 @@ function AllServices() {
                 <div className="icon-content">
                   <h4 className="dlab-title">Application Testing</h4>
                   <p>
-                    Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                    eget sapien euismod, faucibus nibh non, consequat elit.
-                    Praesent sed vehicula.
+                    Faster, quicker, better. Applications are constantly
+                    evolving and we want to understand the feedback before they
+                    go live. Does your app need a fresh perspective from our
+                    testing team? Get in touch!
                   </p>
                 </div>
               </div>
@@ -256,9 +275,12 @@ function AllServices() {
                 <div className="icon-content">
                   <h4 className="dlab-title">24X7 Support</h4>
                   <p>
-                    Fusce sit amet dui vitae urna tristique imperdiet. Donec
-                    eget sapien euismod, faucibus nibh non, consequat elit.
-                    Praesent sed vehicula.
+                    We take pride in providing the best customer service, love
+                    and respect We are 24x7 with you, even on important national
+                    holidays and weekends. We love to chat with you for hours if
+                    we can. And know that we will provide the utmost respect
+                    when you need us. Because when our #community members value
+                    us, we value them more.
                   </p>
                 </div>
               </div>
