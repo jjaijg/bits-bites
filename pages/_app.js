@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
-import Slider from "react-rangeslider";
+// import Slider from "react-rangeslider";
+import Head from "next/head";
 import "react-rangeslider/lib/index.css";
 import "slick-carousel/slick/slick-theme.css";
 import "slick-carousel/slick/slick.css";
@@ -50,6 +51,9 @@ function MyApp({ Component, pageProps }) {
 
   return (
     <>
+      <Head>
+        <title>Bits & Bytes</title>
+      </Head>
       <div className="page-wraper">
         <Component {...pageProps} />
       </div>
@@ -76,6 +80,7 @@ function MyApp({ Component, pageProps }) {
             className="scroltop icon-up"
             type="button"
             style={{ display: "inline-block" }}
+            aria-label="scroll to top"
           >
             <i className="fa fa-arrow-up" />
           </button>

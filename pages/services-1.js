@@ -102,6 +102,7 @@ function Services1() {
                             value="Submit"
                             type="submit"
                             className="btn rounded-xl shadow btn-primary"
+                            aria-label="subscirbe now"
                           >
                             Subscribe Now
                           </button>

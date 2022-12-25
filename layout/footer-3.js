@@ -21,7 +21,7 @@ function Footer3() {
               >
                 <div className="widget widget_about">
                   <div className="footer-logo">
-                    <a href="/">
+                    <a href="/" aria-label="Bits & Bytes Logo">
                       <img src="images/logo-white.png" alt="" />
                     </a>
                   </div>
@@ -36,18 +36,21 @@ function Footer3() {
                         <a
                           className="fa fa-facebook"
                           href="https://en-gb.facebook.com/"
+                          aria-label="Bits & Bytes facebook"
                         ></a>
                       </li>
                       <li>
                         <a
                           className="fa fa-instagram"
                           href="https://www.instagram.com/"
+                          aria-label="Bits & Bytes instagram"
                         ></a>
                       </li>
                       <li>
                         <a
                           className="fa fa-twitter"
                           href="https://twitter.com/login?lang=en"
+                          aria-label="Bits & Bytes twitter"
                         ></a>
                       </li>
                     </ul>

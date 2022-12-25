@@ -17,7 +17,7 @@ function Header() {
               {/* <!-- Website Logo --> */}
               <div className="logo-header mostion logo-dark">
                 <Link href="/">
-                  <a>
+                  <a aria-label="Bits & Bytes Logo">
                     <img src="images/logo.png" alt="" />
                   </a>
                 </Link>
@@ -28,6 +28,7 @@ function Header() {
                   show ? "open" : ""
                 }`}
                 onClick={() => setShow(!show)}
+                aria-label="show menu"
               >
                 <span></span>
                 <span></span>
@@ -51,7 +52,7 @@ function Header() {
               >
                 <div className="logo-header">
                   <Link href="/">
-                    <a>
+                    <a aria-label="Bits & Bytes Logo">
                       <img src="images/logo.png" alt="" />
                     </a>
                   </Link>
@@ -165,16 +166,28 @@ function Header() {
                 <div className="dlab-social-icon">
                   <ul>
                     <Link href="https://en-gb.facebook.com/">
-                      <a className="fa fa-facebook"></a>
+                      <a
+                        className="fa fa-facebook"
+                        aria-label="Bits & Bytes facebook"
+                      ></a>
                     </Link>
                     <Link href="https://twitter.com/login?lang=en">
-                      <a className="fa fa-twitter"></a>
+                      <a
+                        className="fa fa-twitter"
+                        aria-label="Bits & Bytes twitter"
+                      ></a>
                     </Link>
                     <Link href="https://www.linkedin.com/login">
-                      <a className="fa fa-linkedin"></a>
+                      <a
+                        className="fa fa-linkedin"
+                        aria-label="Bits & Bytes Linkedin"
+                      ></a>
                     </Link>
                     <Link href="https://www.instagram.com/">
-                      <a className="fa fa-instagram"></a>
+                      <a
+                        className="fa fa-instagram"
+                        aria-label="Bits & Bytes instagram"
+                      ></a>
                     </Link>
                   </ul>
                 </div>

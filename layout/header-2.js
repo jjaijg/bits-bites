@@ -25,18 +25,21 @@ function Header2() {
                     <a
                       className="fa fa-facebook"
                       href="https://en-gb.facebook.com/"
+                      aria-label="Bits & Bytes facebook"
                     ></a>
                   </li>
                   <li>
                     <a
                       className="fa fa-instagram"
                       href="https://www.instagram.com/"
+                      aria-label="Bits & Bytes instagram"
                     ></a>
                   </li>
                   <li>
                     <a
                       className="fa fa-twitter"
                       href="https://twitter.com/login?lang=en"
+                      aria-label="Bits & Bytes twitter"
                     ></a>
                   </li>
                 </ul>
@@ -51,11 +54,11 @@ function Header2() {
               {/* <!-- Website Logo --> */}
               <div className="logo-header mostion logo-dark">
                 <Link href="/">
-                  <a>
+                  <a aria-label="Bits & Bytes Logo">
                     <img
                       className="custom-logo-white"
                       src="images/logo-white.png"
-                      alt=""
+                      alt="Bits & Bytes Logo"
                     />
                     <img className="custom-logo" src="images/logo.png" alt="" />
                   </a>
@@ -89,9 +92,9 @@ function Header2() {
                 id="navbarNavDropdown"
               >
                 <div className="logo-header">
-                  <Link href="/">
+                  <Link href="/" aria-label="Bits & Bytes Logo">
                     <a>
-                      <img src="images/logo.png" alt="" />
+                      <img src="images/logo.png" alt="Bits & Bytes Logo" />
                     </a>
                   </Link>
                 </div>

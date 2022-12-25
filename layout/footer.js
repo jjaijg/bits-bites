@@ -17,7 +17,7 @@ function Footer() {
               <div className="row align-items-center">
                 <div className="col-xl-5 col-md-4">
                   <div className="footer-logo">
-                    <a href="/">
+                    <a href="/" aria-label="Bits & Bytes Logo">
                       <img
                         src="images/logo.png"
                         alt=""
@@ -87,18 +87,21 @@ function Footer() {
                         <a
                           className="fa fa-facebook"
                           href="https://en-gb.facebook.com/"
+                          aria-label="Bits & Bytes facebook"
                         ></a>
                       </li>
                       <li>
                         <a
                           className="fa fa-instagram"
                           href="https://www.instagram.com/"
+                          aria-label="Bits & Bytes Instagram"
                         ></a>
                       </li>
                       <li>
                         <a
                           className="fa fa-twitter"
                           href="https://twitter.com/login?lang=en"
+                          aria-label="Bits & Bytes twitter"
                         ></a>
                       </li>
                     </ul>
