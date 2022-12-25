@@ -176,13 +176,13 @@ function Footer2() {
                       <a href="#">Portfolio</a>
                     </li> */}
                     <li>
-                      <a href="#">Privacy Policy</a>
+                      <a href="/privacy-policy">Privacy Policy</a>
                     </li>
                     <li>
-                      <a href="#">Terms & Conditions</a>
+                      <a href="/terms-and-conditions">Terms & Conditions</a>
                     </li>
                     <li>
-                      <a href="#">Support </a>
+                      <a href="/contact-us">Support </a>
                     </li>
                   </ul>
                 </div>
