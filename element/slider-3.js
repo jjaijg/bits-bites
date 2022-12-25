@@ -51,6 +51,7 @@ function Slider3() {
                       data-wow-delay="2s"
                       data-wow-duration="3s"
                       className="wow fadeInUp  btn btn-corner gradient btn-primary"
+                      aria-label="Learn more about our organization and service we are offering"
                     >
                       Learn More
                     </a>

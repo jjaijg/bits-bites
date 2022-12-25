@@ -57,6 +57,7 @@ function Slider2() {
                     animationDelay: "2s",
                     animationName: "fadeInUp",
                   }}
+                  aria-label="Learn more about our organization and service we are offering"
                 >
                   Learn More
                 </a>

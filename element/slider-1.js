@@ -42,7 +42,7 @@ function Slider1() {
                     <span className="text-primary">
                       Mobile and Web Applications
                     </span>{" "}
-                    With BaB IT Solutoins
+                    With BaB IT Solutions
                   </h1>
                   <p
                     data-wow-duration="1.4s"
@@ -57,6 +57,7 @@ function Slider1() {
                       data-wow-duration="1.6s"
                       data-wow-delay="2s"
                       className="wow fadeInUp btn btn-link d-inline-flex align-items-center"
+                      aria-label="Learn more about our organization and service we are offering"
                     >
                       <i className="fa fa-angle-right m-r10"></i>Learn More
                     </a>
