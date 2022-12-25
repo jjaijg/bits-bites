@@ -13,21 +13,23 @@ export default (req, res) => {
   `;
 
   const data = {
-    to: "virujai319@gmail.com",
-    from: body.email,
+    to: "admin@babindia.com",
+    from: "support@babindia.com",
     subject: "Quote / Query / Newsletter",
     text: message,
     html: message.replace(/\r\n/g, "<br>"),
   };
 
-  mail
+  return mail
     .send(data)
     .then(() => {
-      res.status(200).json({ status: "success", message: "Mail sent!" });
+      console.log("success ");
+      return res.status(200).json({ status: "success", message: "Mail sent!" });
     })
     .catch((err) => {
-      console.log("err", err);
-      res
+      //   console.log("err", err);
+      console.log("err", err.response.body);
+      return res
         .status(400)
         .json({ status: "fail", message: "Error while sending mail!" });
     });
