@@ -93,18 +93,21 @@ function BlogSlider() {
                           <a
                             className="fa fa-facebook"
                             href="https://en-gb.facebook.com/"
+                            aria-label="Bits & Bytes facebook"
                           ></a>
                         </li>
                         <li>
                           <a
                             className="fa fa-twitter"
                             href="https://twitter.com/login?lang=en"
+                            aria-label="Bits & Bytes twitter"
                           ></a>
                         </li>
                         <li>
                           <a
                             className="fa fa-linkedin"
                             href="https://www.linkedin.com/login"
+                            aria-label="Bits & Bytes Linkedin"
                           ></a>
                         </li>
                       </ul>
@@ -155,18 +158,21 @@ function BlogSlider() {
                           <a
                             className="fa fa-facebook"
                             href="https://en-gb.facebook.com/"
+                            aria-label="Bits & Bytes facebook"
                           ></a>
                         </li>
                         <li>
                           <a
                             className="fa fa-twitter"
                             href="https://twitter.com/login?lang=en"
+                            aria-label="Bits & Bytes twitter"
                           ></a>
                         </li>
                         <li>
                           <a
                             className="fa fa-linkedin"
                             href="https://www.linkedin.com/login"
+                            aria-label="Bits & Bytes linkedin"
                           ></a>
                         </li>
                       </ul>
@@ -220,18 +226,21 @@ function BlogSlider() {
                           <a
                             className="fa fa-facebook"
                             href="https://en-gb.facebook.com/"
+                            aria-label="Bits & Bytes facebook"
                           ></a>
                         </li>
                         <li>
                           <a
                             className="fa fa-twitter"
                             href="https://twitter.com/login?lang=en"
+                            aria-label="Bits & Bytes twitter"
                           ></a>
                         </li>
                         <li>
                           <a
                             className="fa fa-linkedin"
                             href="https://www.linkedin.com/login"
+                            aria-label="Bits & Bytes linkedin"
                           ></a>
                         </li>
                       </ul>

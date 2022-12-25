@@ -41,6 +41,7 @@ function Footer2() {
                           value="Submit"
                           type="submit"
                           className="btn btn-primary gradient fa fa-paper-plane-o"
+                          aria-label="subscirbe now"
                         ></button>
                       </div>
                     </div>
@@ -60,7 +61,7 @@ function Footer2() {
               >
                 <div className="widget widget_about">
                   <div className="footer-logo">
-                    <a href="/">
+                    <a href="/" aria-label="Bits & Bytes Logo">
                       <img
                         src="images/logo.png"
                         alt=""
