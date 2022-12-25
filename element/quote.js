@@ -6,6 +6,17 @@ function onChange(value) {
 
 function handleSubmit(e) {
   e.preventDefault();
+  const formData = {};
+
+  Array.from(e.currentTarget.elements).forEach((field) => {
+    if (!field.name) return;
+
+    formData[field.name] = field.value;
+  });
+  fetch("/api/mail", {
+    method: "post",
+    body: JSON.stringify(formData),
+  });
 }
 
 function Quote() {
@@ -52,7 +63,7 @@ function Quote() {
                         </span>
                       </div>
                       <input
-                        name="Name"
+                        name="first_name"
                         type="text"
                         required
                         className="form-control"
@@ -68,7 +79,7 @@ function Quote() {
                         </span>
                       </div>
                       <input
-                        name="BabtIt[last_name]"
+                        name="last_name"
                         type="text"
                         className="form-control"
                         required
@@ -84,7 +95,7 @@ function Quote() {
                         </span>
                       </div>
                       <input
-                        name="Email"
+                        name="email"
                         type="text"
                         required
                         className="form-control"
@@ -100,7 +111,7 @@ function Quote() {
                         </span>
                       </div>
                       <input
-                        name="BabtIt[phone]"
+                        name="phone"
                         type="text"
                         required
                         className="form-control"
@@ -116,7 +127,7 @@ function Quote() {
                         </span>
                       </div>
                       <input
-                        name="BabtIt[project_title]"
+                        name="project_title"
                         type="text"
                         className="form-control"
                         required
@@ -132,7 +143,7 @@ function Quote() {
                         </span>
                       </div>
                       <select
-                        name="BabtIt[choose_service]"
+                        name="service"
                         className="form-control"
                         required
                         defaultValue={"Choose Service"}
@@ -156,14 +167,14 @@ function Quote() {
                         </span>
                       </div>
                       <textarea
-                        name="BabItMessage"
+                        name="message"
                         required
                         className="form-control"
                         placeholder="Message"
                       ></textarea>
                     </div>
                   </div>
-                  <div className="col-sm-12">
+                  {/* <div className="col-sm-12">
                     <div className="input-group">
                       <div
                         className="g-recaptcha"
@@ -183,7 +194,7 @@ function Quote() {
                   <ReCAPTCHA
                     sitekey="6LefsVUUAAAAADBPsLZzsNnETChealv6PYGzv3ZN"
                     onChange={onChange}
-                  />
+                  /> */}
                   <div className="col-sm-12 mt-2">
                     <button
                       name="submit"
