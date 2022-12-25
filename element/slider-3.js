@@ -36,7 +36,7 @@ function Slider3() {
                     className="wow fadeInUp m-b20"
                   >
                     Build Stunning Mobile and Web Applications With BaB IT
-                    Solutins
+                    Solutions
                   </h1>
                   <p
                     data-wow-delay="1.5s"

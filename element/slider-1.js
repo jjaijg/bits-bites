@@ -42,7 +42,7 @@ function Slider1() {
                     <span className="text-primary">
                       Mobile and Web Applications
                     </span>{" "}
-                    With BaB IT Solutins
+                    With BaB IT Solutoins
                   </h1>
                   <p
                     data-wow-duration="1.4s"
