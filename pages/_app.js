@@ -53,6 +53,10 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <title>Bits & Bytes</title>
+        <meta
+          name="description"
+          content="Build Stunning Mobile and Web Applications With BaB IT Solutions."
+        />
       </Head>
       <div className="page-wraper">
         <Component {...pageProps} />
