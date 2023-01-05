@@ -210,19 +210,22 @@ function Footer2() {
                     <li>
                       <a
                         className="fa fa-facebook"
-                        href="https://en-gb.facebook.com/"
+                        href="https://www.facebook.com/profile.php?id=100088184373100"
+                        aria-label="Bits & Bytes facebook"
                       ></a>
                     </li>
                     <li>
                       <a
                         className="fa fa-instagram"
-                        href="https://www.instagram.com/"
+                        href="https://www.instagram.com/bab_it_solutions/"
+                        aria-label="Bits & Bytes Instagram"
                       ></a>
                     </li>
                     <li>
                       <a
                         className="fa fa-twitter"
-                        href="https://twitter.com/login?lang=en"
+                        href="https://twitter.com/bab_itsolutions"
+                        aria-label="Bits & Bytes twitter"
                       ></a>
                     </li>
                   </ul>
