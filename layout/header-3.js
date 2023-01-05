@@ -89,25 +89,25 @@ function Header3() {
                 </ul>
                 <div className="dlab-social-icon">
                   <ul>
-                    <Link href="https://en-gb.facebook.com/">
+                    <Link href="https://www.facebook.com/profile.php?id=100088184373100">
                       <a
                         className="fa fa-facebook"
                         aria-label="Bits & Bytes facebook"
                       ></a>
                     </Link>
-                    <Link href="https://twitter.com/login?lang=en">
+                    <Link href="https://twitter.com/bab_itsolutions">
                       <a
                         className="fa fa-twitter"
                         aria-label="Bits & Bytes twitter"
                       ></a>
                     </Link>
-                    <Link href="https://www.linkedin.com/login">
+                    {/* <Link href="https://www.linkedin.com/login">
                       <a
                         className="fa fa-linkedin"
                         aria-label="Bits & Bytes Linkedin"
                       ></a>
-                    </Link>
-                    <Link href="https://www.instagram.com/">
+                    </Link> */}
+                    <Link href="https://www.instagram.com/bab_it_solutions/">
                       <a
                         className="fa fa-instagram"
                         aria-label="Bits & Bytes instagram"
