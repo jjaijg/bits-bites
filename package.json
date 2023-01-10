@@ -19,7 +19,7 @@
     "react-google-recaptcha": "^2.1.0",
     "react-modal-video": "^1.2.6",
     "react-rangeslider": "^2.2.0",
-    "react-router-dom": "^5.2.0",
+    "react-router-dom": "^5.3.4",
     "react-scroll-to-top": "^1.0.5",
     "react-slick": "^0.28.0",
     "react-visibility-sensor": "^5.1.1",
