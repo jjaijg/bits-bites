@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 // import Slider from "react-rangeslider";
 import Head from "next/head";
+import Script from "next/script";
+
 import "react-rangeslider/lib/index.css";
 import "slick-carousel/slick/slick-theme.css";
 import "slick-carousel/slick/slick.css";
@@ -58,6 +60,24 @@ function MyApp({ Component, pageProps }) {
           content="Build Stunning Mobile and Web Applications With BaB IT Solutions."
         />
       </Head>
+      <Script
+        strategy="afterInteractive"
+        src="https://www.googletagmanager.com/gtag/js?id=UA-194321494-1"
+      />
+      <Script
+        id="google-analytics"
+        strategy="afterInteractive"
+        dangerouslySetInnerHTML={{
+          _html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments);}
+              gtag('js', new Date());
+              
+              gtag('config', 'UA-194321494-1', {
+                page_path: window.location.pathname,
+              });`,
+        }}
+      />
       <div className="page-wraper">
         <Component {...pageProps} />
       </div>
