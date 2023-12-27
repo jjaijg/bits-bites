@@ -9,7 +9,7 @@
     "sass": "sass --watch scss/main.scss css/style.css"
   },
   "dependencies": {
-    "@sendgrid/mail": "^7.7.0",
+    "@sendgrid/mail": "^8.0.0",
     "moment": "^2.29.4",
     "next": "^12.0.9",
     "react": "^17.0.1",
